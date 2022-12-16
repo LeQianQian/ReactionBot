@@ -1,0 +1,16 @@
+{
+  "name": "recationbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "sequelize": "^6.26.0",
+    "sqlite3": "^5.1.2"
+  }
+}
